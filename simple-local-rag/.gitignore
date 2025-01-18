@@ -1,6 +1,7 @@
 ./local-rag/*
 local-rag/*
 venv/*
+.env
 
 .ipynb_checkpoints/* 
 
